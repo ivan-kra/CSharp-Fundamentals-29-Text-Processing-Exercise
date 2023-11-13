@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.exe
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.deps.json
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\bin\Debug\net6.0\03.ExtractFile.pdb
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\obj\Debug\net6.0\refint\03.ExtractFile.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.pdb
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\obj\Debug\net6.0\03.ExtractFile.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\03.ExtractFile\obj\Debug\net6.0\ref\03.ExtractFile.dll

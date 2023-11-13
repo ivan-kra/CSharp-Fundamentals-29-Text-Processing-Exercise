@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\bin\Debug\net6.0\01.ValidUsernames.exe
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\bin\Debug\net6.0\01.ValidUsernames.deps.json
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\bin\Debug\net6.0\01.ValidUsernames.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\bin\Debug\net6.0\01.ValidUsernames.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\bin\Debug\net6.0\01.ValidUsernames.pdb
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\obj\Debug\net6.0\refint\01.ValidUsernames.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.pdb
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\01.ValidUsernames\obj\Debug\net6.0\ref\01.ValidUsernames.dll

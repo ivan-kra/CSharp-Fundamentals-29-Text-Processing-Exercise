@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.exe
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.deps.json
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.pdb
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\obj\Debug\net6.0\refint\02.CharacterMultiplier.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.pdb
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\02.CharacterMultiplier\obj\Debug\net6.0\ref\02.CharacterMultiplier.dll
