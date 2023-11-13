@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\bin\Debug\net6.0\06.ReplaceRepeatingChars.exe
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\bin\Debug\net6.0\06.ReplaceRepeatingChars.deps.json
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\bin\Debug\net6.0\06.ReplaceRepeatingChars.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\bin\Debug\net6.0\06.ReplaceRepeatingChars.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\bin\Debug\net6.0\06.ReplaceRepeatingChars.pdb
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\refint\06.ReplaceRepeatingChars.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.pdb
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\06.ReplaceRepeatingChars.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\06.ReplaceRepeatingChars\obj\Debug\net6.0\ref\06.ReplaceRepeatingChars.dll

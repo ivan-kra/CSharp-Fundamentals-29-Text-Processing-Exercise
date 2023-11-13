@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.exe
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.deps.json
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\bin\Debug\net6.0\05.MultiplyBigNumber.pdb
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\refint\05.MultiplyBigNumber.dll
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.pdb
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\05.MultiplyBigNumber.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\29 Text Processing - Exercise\Associative_Arrays_Exercise\05.MultiplyBigNumber\obj\Debug\net6.0\ref\05.MultiplyBigNumber.dll
